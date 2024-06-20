@@ -3,7 +3,7 @@
 
 The MNIST data set consist of the handwritten digits that is commonly used as a benchmark dataset for training and testing machine learning algorithms. MNIST stands for Modified National Institute of Standards and Technology database, and it contains a training set of 60,000 images and a test set of 10,000 images.
 
-So looking at the dataset the only problem I cansee is mkaing a system that recognizes the handwritten digits. 
+So looking at the dataset the only problem I can see is mkaing a system that recognizes the handwritten digits. 
 The goal is to train the different machine learning models and get the classification of the image more accurately which can be used in the real world and important as it can be used to recognize the handwritten charaters in the application forms where human have different handwriting but this model can identify, also can be used in the banks to recognize checks and so on where human written charaters can be identified by machine.
 
 ## Exploring the data

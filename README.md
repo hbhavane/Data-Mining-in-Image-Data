@@ -1,4 +1,7 @@
 # Data-Mining-in-Image-Data
+![image](https://github.com/hbhavane/Data-Mining-in-Image-Data/assets/78750775/dffb6f31-1216-4220-afa5-36126186fbf7)
+
+
 ## Problem we will solve?
 
 The MNIST data set consist of the handwritten digits that is commonly used as a benchmark dataset for training and testing machine learning algorithms. MNIST stands for Modified National Institute of Standards and Technology database, and it contains a training set of 60,000 images and a test set of 10,000 images.

@@ -1,6 +1,6 @@
 # Data-Mining-in-Image-Data
 ![image](https://github.com/hbhavane/Data-Mining-in-Image-Data/assets/78750775/dffb6f31-1216-4220-afa5-36126186fbf7)
-
+#### *Refer Notebook file for detailed Analysis
 
 ## Problem we will solve?
 
